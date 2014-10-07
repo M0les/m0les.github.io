@@ -1,0 +1,64 @@
+==================================================================
+https://keybase.io/m0les
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://m0les.com
+  * I am m0les (https://keybase.io/m0les) on keybase.
+  * I have a public key with fingerprint DB18 3ECA 1628 153A CB1A  8A41 B3EA 71E0 09B8 502D
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "db183eca1628153acb1a8a41b3ea71e009b8502d",
+            "host": "keybase.io",
+            "key_id": "b3ea71e009b8502d",
+            "uid": "6fc3fc8d24e9bb227ed35a062134e900",
+            "username": "m0les"
+        },
+        "service": {
+            "hostname": "m0les.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1412684957,
+    "expire_in": 157680000,
+    "prev": "442815f8536264a4dfe120d1487760f970d00859454b0b2a50cd2f2113c165ce",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.1.2
+Comment: https://keybase.io/crypto
+
+yMHcAnicbVFdSBRRGN31J3FjSwwsEsqGSoRF753/XYx8kh7CIEKIjO3OzN11UmfW
+2XFzEc3AINMIqVxILSx/HiKhICQz2mTZIst+1FKwHoIKMRVLl9Cg7khBD92Xyz3f
+Oef7zv1izmSbw7576Cx4WHq5yD4anauxHWFmuuooSVfClKeOqsDrl0/V/NgIGKpm
+Uh5KkaDIYBlBnhYhxyBZgkhELJQYjASIAXBLIgdohXJR5XrQUhAbCQVxvqoTjDy8
+qkLQ//Br1gu8T2Z8sqjQLHZLEk0LWGE4BHgaMgQBwCIGsaGhKkzYVaASB6l6F0Wg
+kCpja2Cr77/lfFmvIqqAoZu6rFcSuNw0Ax5LZYYDFu0Ulrx/DLySqikkMRGEsBFU
+dY3yQMKUTdVyhCykeZF1c4KLwrUB1cBe1WJwAi8Ccqw2OEQsWdb6H5/IMTzNs4hV
+fBjSQIGsKAg88LkFoAAgcm6WYyUg0YgDskL7aAgZGfIcCWJFqtZ0ysOQMZGfWAZV
+v4bMGgNT9SPRshSb3WHbkJpk7czmSM/4u8membRflR9y8eO4JwLbJhf71xLxq3tL
+FlNnW3pPdnI5GyPfBmwF/KW8wYGK+c8JXDd1btuJyJKLz15bOPoqslTbge4cqmhe
+i7evDh5U2FlnLiq6UOj4CvJWfhbFNtmjt0qG0j7tnO/N7htrpBom2prvh+k9oS3x
+zne1BSvXOuRizJ9BL54XHr+pT34fjWa2Nu1Y/XI48SSc0tMauZs47Sxr2N6x/Gyz
+a2LoR9L1LHGu60aKfytInjRtK8WR4VgrWujOunhvONY02NtHj08PcNMvcWnG68zC
+xgfn3+/f97F4HF6ZEW+/Scp7tKv6QE579lT6sbGxbqX/6RzrbGl6uzzyG//TFp8=
+=XKzX
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/m0les
+
+==================================================================
